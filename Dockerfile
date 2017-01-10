@@ -1,2 +1,2 @@
-FROM ngnix
+FROM nginx
 # push it real good more...
