@@ -1,2 +1,2 @@
-FROM httpd
+FROM ngnix
 # push it real good more...
